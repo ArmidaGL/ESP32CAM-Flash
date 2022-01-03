@@ -9,6 +9,7 @@
 
 
 //Definición de pines
+#Este es mi cambio Armida
 #define LAMP 4 //Se selecciona el pin donde se encuentra el led flash
 
 //Inicialización del programa
